@@ -11,16 +11,16 @@ main:
   - title: "About Me"
     url: /publications/
 
-  - title: "Talks"
+  - title: "News"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Academic Services"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Publications"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Projects"
     url: /year-archive/
     
   - title: "CV"
