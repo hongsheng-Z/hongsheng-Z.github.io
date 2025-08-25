@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in the School of Computer Science at Wuhan University, advised by Prof. [Chunxia Xiao](https://graphvision.whu.edu.cn/). From 2020 to 2023, I pursued my Master’s degree in Computer Science and Technology at Yunnan University under the supervision of Associate Prof. [Yun Gao](http://www.ise.ynu.edu.cn/teacher/807), where my research focused on single-object tracking, object detection, and hybrid backbone networks. Before that, I obtained my Bachelor’s degree in Information Management and Information Systems at Huaqiao University (2015–2019), supervised by Prof. [Wei Wang](https://faculty.hqu.edu.cn/ww), with research interests in text mining and crowdfunding management. Currently, my research focuses on low-level image processing (including highlight removal, shadow removal, reflection removal, deraining, dehazing, and desnowing), AIGC, and multimodal vision-language models. I have served as a reviewer for top-tier conferences and journals such as IEEE TCSVT/TVCG, CVPR, ICCV, ACM MM, and AAAI.
+I am a third-year Ph.D. student in the School of Computer Science at Wuhan University, advised by Prof. [Chunxia Xiao](https://graphvision.whu.edu.cn/). I completed my Master’s degree in Computer Science and Technology at Yunnan University (2020-2023), supervised by Associate Prof. [Yun Gao](http://www.ise.ynu.edu.cn/teacher/807), where my research focused on single-object tracking, object detection, and hybrid backbone networks. Before that, I obtained my Bachelor’s degree in Information Management and Information Systems at Huaqiao University (2015–2019), supervised by Prof. [Wei Wang](https://faculty.hqu.edu.cn/ww), with research interests in text mining and crowdfunding management. Currently, my research focuses on low-level image processing (including highlight removal, shadow removal, reflection removal, deraining, dehazing, and desnowing), AIGC, and multimodal vision-language models. I have served as a reviewer for top-tier journals and conferences such as IEEE TCSVT/TVCG, CVPR, ICCV, ACM MM, and AAAI.
 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
