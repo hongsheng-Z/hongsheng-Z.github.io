@@ -23,8 +23,15 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 
 ✍ Academic Services
 ======
+| **Reviewer:** | IEEE TVCG, IEEE TCSVT, CVPR, ICCV, AAAI, ACM MM |
+|---------------|------------------------------------------|
 
 
 📝 Publications
 ======
+### AAAI 2025  
+[TextCenGen: Attention-Guided Text-Centric Background Adaptation for Text-to-Image Generation](https://arxiv.org/)  
+Tianyi Liang†, Jiangqi Liu†, Yifei Huang, Shiqi Jiang, Jianshen Shi, Changbo Wang, and Chenhui Li*.  
+ICML 2025, Accepted (CCF A)  
 
+[arXiv](https://arxiv.org/) | [Code](https://example.com/) | [Project Page](https://example.com/) 
