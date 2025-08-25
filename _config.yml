@@ -22,7 +22,7 @@ repository               : "hongsheng-Z/hongsheng-Z.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "main_profile.jpg"
+  avatar           : "profile.png"
   name             : "Hongsheng Zheng"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Wuhan University"
