@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in the School of Computer Science at Wuhan University, advised by Prof. [Chunxia Xiao](https://graphvision.whu.edu.cn/). I completed my Academic Master’s degree in Computer Science and Technology at Yunnan University (2020-2023), supervised by Associate Prof. [Yun Gao](http://www.ise.ynu.edu.cn/teacher/807), where my research focused on single-object tracking, object detection, and hybrid backbone. Before that, I obtained my Bachelor’s degree in Information Management and Information Systems at Huaqiao University (2015–2019), supervised by Prof. [Wei Wang](https://faculty.hqu.edu.cn/ww), with research interests in text mining and crowdfunding management. Currently, my research focuses on low-level image processing (including highlight removal, shadow removal, reflection removal, deraining, dehazing, and desnowing), AIGC, and multimodal VLM. I have served as a reviewer for top-tier journals and conferences such as IEEE TCSVT/TVCG, CVPR, ICCV, ACM MM, and AAAI.
+I am a third-year Ph.D. student in the School of Computer Science at Wuhan University, advised by Prof. [Chunxia Xiao](https://graphvision.whu.edu.cn/). I completed my Academic Master’s degree in Computer Science and Technology at Yunnan University (2020-2023), supervised by Associate Prof. [Yun Gao](http://www.ise.ynu.edu.cn/teacher/807), where my research focused on single-object tracking, object detection, and hybrid backbone. Before that, I obtained my Bachelor’s degree in Information Management and Information Systems at Huaqiao University (2015–2019), supervised by Prof. [Wei Wang](https://weiwang.info/), with research interests in text mining and crowdfunding management. Currently, my research focuses on low-level image processing (including highlight removal, shadow removal, reflection removal, deraining, dehazing, and desnowing), AIGC, and multimodal VLM. I have served as a reviewer for top-tier journals and conferences such as IEEE TCSVT/TVCG, CVPR, ICCV, ACM MM, and AAAI.
 
 
 🔥 News
@@ -39,4 +39,7 @@ AAAI 2025, Accepted (CCF A)
 [Facial Highlight Removal with Cross-Context Attention and Texture Enhancement](https://ieeexplore.ieee.org/abstract/document/10701516)  
 Hongsheng Zheng, Wenju Xu, Zhenyu Wang, Xiao Lu, and Chunxia Xiao*.  
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Accepted (CCF B, JCR Q1)  
+
+[arXiv](https://arxiv.org/) | [Code](https://example.com/) | [Project Page](https://example.com/) 
+
 
