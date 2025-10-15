@@ -3,6 +3,28 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
+style>
+/* 让作者信息容器左右内边距对称，并把内容真正居中 */
+.sidebar .author__content{
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;       /* 水平居中所有子元素 */
+}
+
+/* 名字本身再居中，去掉潜在的左外边距 */
+.sidebar .author__name{
+  text-align: center !important;
+  margin-left: 0 !important;
+}
+
+/* 头像也一起正中（可选） */
+.sidebar .author__avatar img{
+  display: block;
+  margin: 0 auto;
+}
+</style>
 
 <div itemscope itemtype="http://schema.org/Person">
 
