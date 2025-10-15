@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-I am a third-year Ph.D. student in the School of Computer Science at Wuhan University, advised by Prof. [Chunxia Xiao](https://graphvision.whu.edu.cn/). I completed my Academic Master’s degree in Computer Science and Technology at Yunnan University (2020-2023), supervised by Associate Prof. [Yun Gao](http://www.ise.ynu.edu.cn/teacher/807), where my research focused on single-object tracking, object detection, and hybrid backbone. Before that, I obtained my Bachelor’s degree in Information Management and Information Systems at Huaqiao University (2015–2019), supervised by Prof. [Wei Wang](https://weiwang.info/), with research interests in text mining and crowdfunding management. Currently, my research focuses on low-level image processing (including highlight removal, shadow removal, reflection removal, deraining, dehazing, and desnowing), AIGC, and multimodal VLM. I have served as a reviewer for top-tier journals and conferences such as IEEE TCSVT/TVCG, CVPR, ICCV, ACM MM, and AAAI.
-
+<div markdown="1" style="text-align:justify; text-justify:inter-word; hyphens:auto;">
+I am a third-year Ph.D. student in the School of Computer Science at Wuhan University, advised by Prof. [Chunxia Xiao](https://graphvision.whu.edu.cn/). I received my Academic Master’s degree in Computer Science and Technology at Yunnan University (2020-2023), supervised by Associate Prof. [Yun Gao](https://www.ise.ynu.edu.cn/faculty/103/), where I focused on single-object tracking, object detection, and hybrid-mode backbone. Before that, I earned my Bachelor’s degree in Information Management and Information Systems at Huaqiao University (2015–2019), supervised by Prof. [Wei Wang](https://weiwang.info/), working on text mining and crowdfunding management. Currently, my research centers on low-level image processing (including highlight removal, shadow removal, reflection removal, deraining, dehazing, and desnowing), AIGC, and multimodal VLM. I have served as a reviewer for top-tier journals and conferences such as IEEE TCSVT/TVCG, CVPR, ICCV, ACM MM, and AAAI.
+</div>
 
 🔥 News
 ======
@@ -41,5 +41,3 @@ Hongsheng Zheng, Wenju Xu, Zhenyu Wang, Xiao Lu, and Chunxia Xiao*.
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Accepted (CCF B, JCR Q1)  
 
 [arXiv](https://arxiv.org/) | [Code](https://example.com/) | [Project Page](https://example.com/) 
-
-
