@@ -32,12 +32,10 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 [PHR-DIFF: Portrait Highlight Removal via Patch-aware Diffusion Model](https://ojs.aaai.org/index.php/AAAI/article/view/33146)  
 Hongsheng Zheng, Zhongyun Bao, Gang Fu, Xuze Jiao, and Chunxia Xiao*.  
 AAAI 2025, Accepted (CCF A)  
-
 [arXiv](https://arxiv.org/) | [Code](https://example.com/) | [Project Page](https://example.com/) 
 
-### TSCVT 2025  
+### TCSVT 2025  
 [Facial Highlight Removal with Cross-Context Attention and Texture Enhancement](https://ieeexplore.ieee.org/abstract/document/10701516)  
 Hongsheng Zheng, Wenju Xu, Zhenyu Wang, Xiao Lu, and Chunxia Xiao*.  
 IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Accepted (CCF B, JCR Q1)  
-
 [arXiv](https://arxiv.org/) | [Code](https://example.com/) | [Project Page](https://example.com/) 
