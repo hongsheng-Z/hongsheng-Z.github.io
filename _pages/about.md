@@ -29,22 +29,28 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 📝 Publications
 ======
 ### AAAI 2025  
-[PHR-DIFF: Portrait Highlight Removal via Patch-aware Diffusion Model](https://ojs.aaai.org/index.php/AAAI/article/view/33146)  
+PHR-DIFF: Portrait Highlight Removal via Patch-aware Diffusion Model]  
 Hongsheng Zheng, Zhongyun Bao, Gang Fu, Xuze Jiao, and Chunxia Xiao*.  
 The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25), Accepted (CCF A)  
 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33146) | [Code](https://example.com/) | [Project Page](https://example.com/) 
 
 ### TCSVT 2025  
-[Facial Highlight Removal with Cross-Context Attention and Texture Enhancement](https://ieeexplore.ieee.org/abstract/document/10701516)  
+Facial Highlight Removal with Cross-Context Attention and Texture Enhancement  
 Hongsheng Zheng, Wenju Xu, Zhenyu Wang, Xiao Lu, and Chunxia Xiao*.  
 IEEE Transactions on Circuits and Systems for Video Technology, Accepted (CCF B, JCR Q1)  
 [Paper](https://ieeexplore.ieee.org/abstract/document/10701516) | [Code](https://example.com/) | [Project Page](https://example.com/) 
 
 ### NCAA 2024
-Hybrid-Mode tracker with online SA-LSTM updater. 
-Hongsheng Zheng, Yun Gao*, Yaqing Hu, and Xuejie Zhang.
-Neural Computing & Applications, Accepted (JCR Q3)
+Hybrid-Mode tracker with online SA-LSTM updater.  
+Hongsheng Zheng, Yun Gao*, Yaqing Hu, and Xuejie Zhang.  
+Neural Computing & Applications, Accepted (JCR Q3)  
 [Paper](https://link.springer.com/article/10.1007/s00521-024-10354-4) | [Code](https://example.com/)
+
+### Soft Computing 2020
+Prediction of fundraising outcomes for crowdfunding projects based on deep learning: a multimodel comparative study  
+Wei Wang, Hongsheng Zheng, Yenchun Jim Wu*.  
+Soft Computing, Accepted (CCF-C, JCR Q3)  
+[Paper](https://link.springer.com/article/10.1007/s00500-020-04822-x) | [Code](https://github.com/hongsheng-Z/Pfoc)  
 
 🥇 Honors and Awards
 ======
