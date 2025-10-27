@@ -39,3 +39,8 @@ The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25), Accepted 
 Hongsheng Zheng, Wenju Xu, Zhenyu Wang, Xiao Lu, and Chunxia Xiao*.  
 IEEE Transactions on Circuits and Systems for Video Technology, Accepted (CCF B, JCR Q1)  
 [arXiv](https://arxiv.org/) | [Code](https://example.com/) | [Project Page](https://example.com/) 
+
+🥇 Honors and Awards
+======
+- **2025.11**: PhD Academic Scholarship, First Prize (1%)*.
+- **2025.11**: Hua-wei Scholarship, First Prize (1%)*.
