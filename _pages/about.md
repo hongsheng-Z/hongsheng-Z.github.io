@@ -43,4 +43,4 @@ IEEE Transactions on Circuits and Systems for Video Technology, Accepted (CCF B,
 🥇 Honors and Awards
 ======
 - **2025.11**: PhD Academic Scholarship, First Prize (1%)*.
-- **2025.11**: Hua-wei Scholarship, First Prize (1%)*.
+- **2025.11**: Hua-Wei Scholarship, First Prize (1%)*.
