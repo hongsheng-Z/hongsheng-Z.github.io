@@ -41,7 +41,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, Accepted (CCF B,
 [Paper](https://ieeexplore.ieee.org/abstract/document/10701516) | [Code](https://example.com/) | [Project Page](https://example.com/) 
 
 ### NCAA 2024
-Facial Highlight Removal with Cross-Context Attention and Texture Enhancement 
+Hybrid-Mode tracker with online SA-LSTM updater. 
 Hongsheng Zheng, Yun Gao*, Yaqing Hu, and Xuejie Zhang.
 Neural Computing & Applications, Accepted (JCR Q3)
 [Paper](https://link.springer.com/article/10.1007/s00521-024-10354-4) | [Code](https://example.com/)
