@@ -46,6 +46,12 @@ Hongsheng Zheng, Yun Gao*, Yaqing Hu, and Xuejie Zhang.
 Neural Computing & Applications, Accepted (JCR Q3)  
 [Paper](https://link.springer.com/article/10.1007/s00521-024-10354-4) | [Code](https://example.com/)
 
+### IEEE ICSP 2023
+Siamese Tracker with Multi-Stage Unified Backbone Network  
+Hongsheng Zheng, Yun Gao*.  
+IEEE Intelligent Computing and Signal Processing(ICSP), Accepted  
+[Paper](https://ieeexplore.ieee.org/abstract/document/10248907)  
+
 ### Soft Computing 2020
 Prediction of fundraising outcomes for crowdfunding projects based on deep learning: a multimodel comparative study  
 Wei Wang, Hongsheng Zheng, Yenchun Jim Wu*.  
@@ -55,4 +61,4 @@ Soft Computing, Accepted (CCF-C, JCR Q3)
 🥇 Honors and Awards
 ======
 - **2025.11**: Hua-Wei Scholarship, First Prize (1%)*.
-- **2025.11**: PhD Academic Scholarship, First Prize (1%)*.
+- **2025.10**: PhD Academic Scholarship, First Prize (1%)*.
