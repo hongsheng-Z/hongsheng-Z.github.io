@@ -23,7 +23,7 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 
 ✍ Academic Services  
 ======
-<hr style="height: 1px; border: none; background-color: #e0e0e0;">
+<hr style="height: 0.8px; border: none; background-color: #e0e0e0;">
 | **Reviewer:** | CVPR, ICCV, AAAI, ACM MM, IEEE TVCG, IEEE TCSVT |
 
 📝 Publications  
