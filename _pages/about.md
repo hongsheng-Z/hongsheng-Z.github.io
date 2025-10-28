@@ -10,7 +10,7 @@ redirect_from:
 I am a third-year Ph.D. student in the School of Computer Science at Wuhan University, advised by Prof. [Chunxia Xiao](https://graphvision.whu.edu.cn/). I received my Academic Master’s degree in Computer Science and Technology at Yunnan University (2020-2023), supervised by Associate Prof. [Yun Gao](https://www.ise.ynu.edu.cn/faculty/103/), where I focused on single-object tracking, object detection, and hybrid-mode backbone. Before that, I earned my Bachelor’s degree in Information Management and Information Systems at Huaqiao University (2015–2019), supervised by Prof. [Wei Wang](https://weiwang.info/), working on text mining and crowdfunding management. Currently, my research centers on low-level image processing (including highlight removal, shadow removal, reflection removal, deraining, dehazing, and desnowing), AIGC, and multimodal VLM. I have served as a reviewer for top-tier journals and conferences such as IEEE TCSVT/TVCG, CVPR, ICCV, ACM MM, and AAAI.
 </div>
 
-🔥 News  
+🔥 News  {#News}
 ======
 - **2024.12**: 🎉 1 paper accepted to **AAAI 2025**.  
 - **2024.09**: 🎉 1 paper accepted to **IEEE TCSVT**.  
