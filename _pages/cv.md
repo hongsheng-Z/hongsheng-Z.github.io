@@ -15,7 +15,18 @@ Education
 * M.S. in School of Information Science & Engineering, Yunan University, 2020
 * B.S. in School of Business Administration, huaqiao University, 2015
 
-<!--Work experience
+Skills  
+======
+* Coding  
+  * Python  
+  * C  
+  * Java  
+  
+Interests  
+======
+* CV, AIGC 
+<!-- 
+Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -31,19 +42,8 @@ Education
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
--->  
-Skills  
-======
-* Coding  
-  * Python  
-  * C  
-  * Java  
-  
-Interests  
-======
-* CV, AIGC
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
