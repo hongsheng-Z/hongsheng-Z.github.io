@@ -12,7 +12,6 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 
 🔥 News
 ======
-
 - **2024.12**: 🎉 1 paper accepted to **AAAI 2025**.  
 - **2024.09**: 🎉 1 paper accepted to **IEEE TCSVT**.  
 - **2024.07**: 🎉 1 paper accepted to **Neural Computing and Applications**.
@@ -23,7 +22,7 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 
 ✍ Academic Services
 ======
-| **Reviewer:** | IEEE TVCG, IEEE TCSVT, CVPR, ICCV, AAAI, ACM MM |
+| **Reviewer:** | CVPR, ICCV, AAAI, ACM MM, IEEE TVCG, IEEE TCSVT |
 
 📝 Publications
 ======
