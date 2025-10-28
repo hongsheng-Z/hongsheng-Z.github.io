@@ -15,14 +15,14 @@ Education
 * M.S. in School of Information Science & Engineering, Yunan University, 2020
 * B.S. in School of Business Administration, huaqiao University, 2015
 
-Skills  
+Skills
 ======
 * Coding  
   * Python  
   * C  
-  * Java  
-  
-Interests  
+  * Java
+
+Interests
 ======
 * CV, AIGC 
 <!-- 
