@@ -22,7 +22,7 @@ repository               : "https://hongsheng-Z/hongsheng-Z.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "郑洪笙"
+  name             : "郑  洪  笙"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at Wuhan University"
   location         : "Wuhan, Hubei, China"
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
@@ -53,7 +53,7 @@ author:
   # Social media
   zhihu            : "lao-you-tiao-80-26" # Username
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
