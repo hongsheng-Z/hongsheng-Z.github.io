@@ -61,3 +61,4 @@ Soft Computing, Accepted (CCF-C, JCR Q3)
 ======
 - **2025.11**: Hua-Wei Scholarship, First Prize (1%)*.
 - **2025.10**: PhD Academic Scholarship, First Prize (1%)*.
+- **2025.10**: Outstanding PhD of Wuhan University.
