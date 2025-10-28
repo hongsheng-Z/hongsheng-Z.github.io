@@ -15,13 +15,13 @@ main:
     url: /#News
 
   - title: "Academic Services"
-    url: /teaching/    
+    url: /#Academic Services
     
   - title: "Publications"
-    url: /portfolio/
+    url: /#Publications
         
-  - title: "Projects"
-    url: /year-archive/
+  - title: "Honors"
+    url: /#Honors and Awards
     
   - title: "CV"
     url: /cv/
