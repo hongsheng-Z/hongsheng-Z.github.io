@@ -32,14 +32,14 @@ Education
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 -->  
-Skills
+Skills  
 ======
 * Coding  
   * Python  
   * C  
   * Java  
   
-Interests
+Interests  
 ======
 * CV, AIGC
 
