@@ -33,36 +33,36 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Wuhan University",
+      "area": "Ph.D in the School of Computer and Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2023",
+      "endDate": "",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Yunnan University",
+      "area": "M.S. in the School of Information Science & Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2020",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Huaqiao University",
+      "area": "B.S. in the School of Business Administration",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2015",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [Coding],
+  "languages": [Python, C, Java],
+  "interests": [CV, AIGC],
   "references": [],
   "publications": [
     {
