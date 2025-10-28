@@ -12,6 +12,7 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 
 🔥 News  
 ======
+---
 - **2024.12**: 🎉 1 paper accepted to **AAAI 2025**.  
 - **2024.09**: 🎉 1 paper accepted to **IEEE TCSVT**.  
 - **2024.07**: 🎉 1 paper accepted to **Neural Computing and Applications**.
@@ -22,10 +23,12 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 
 ✍ Academic Services  
 ======
+---
 | **Reviewer:** | CVPR, ICCV, AAAI, ACM MM, IEEE TVCG, IEEE TCSVT |
 
 📝 Publications  
 ======
+---
 ### AAAI 2025  
 PHR-DIFF: Portrait Highlight Removal via Patch-aware Diffusion Model]  
 Hongsheng Zheng, Zhongyun Bao, Gang Fu, Xuze Jiao, and Chunxia Xiao*.  
@@ -58,6 +61,7 @@ Soft Computing, Accepted (CCF-C, JCR Q3)
 
 🥇 Honors and Awards  
 ======
+---
 - **2025.11**: Hua-Wei Scholarship, First Prize (1%)*.
 - **2025.10**: PhD Academic Scholarship, First Prize (1%)*.
 - **2025.10**: Outstanding PhD of Wuhan University.
