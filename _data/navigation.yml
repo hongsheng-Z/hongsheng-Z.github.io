@@ -12,7 +12,7 @@ main:
     url: /about/
 
   - title: "News"
-    url: /talks/    
+    url: /#News
 
   - title: "Academic Services"
     url: /teaching/    
