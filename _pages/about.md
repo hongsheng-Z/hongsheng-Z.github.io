@@ -20,7 +20,7 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 - **2020.09**: 🎓 Starting my Master at **School of Information Science & Engineering, Yunnan University**.
 - **2020.08**: 🎉 1 paper accepted to **Soft Computing**.
 
-✍ Academic Services  {#Academic Services}
+✍ Academic Services  {#Academic}
 ======
 | **Reviewer:** | CVPR, ICCV, AAAI, ACM MM, IEEE TVCG, IEEE TCSVT |
 
@@ -56,7 +56,7 @@ Wei Wang, Hongsheng Zheng, Yenchun Jim Wu*.
 Soft Computing, Accepted (CCF-C, JCR Q3)  
 [Paper](https://link.springer.com/article/10.1007/s00500-020-04822-x) | [Code](https://github.com/hongsheng-Z/Pfoc)  
 
-🥇 Honors and Awards  {#Honors and Awards}
+🥇 Honors and Awards  {#Honors}
 ======
 - **2025.11**: Hua-Wei Scholarship, First Prize (1%)*.
 - **2025.10**: PhD Academic Scholarship, First Prize (1%)*.
