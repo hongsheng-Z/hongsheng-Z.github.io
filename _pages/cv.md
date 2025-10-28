@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in School of Computer Science, wuhan University, 2023 
+* M.S. in School of Information Science & Engineering, Yunan University, 2020
+* B.S. in School of Business Administration, huaqiao University, 2015
 
-Work experience
+<!--Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -31,17 +31,19 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+-->  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding  
+  * Python  
+  * C  
+  * Java  
+  
+Interests
+======
+* CV, AIGC
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -62,3 +64,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
