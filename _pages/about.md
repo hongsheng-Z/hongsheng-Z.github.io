@@ -41,7 +41,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, Accepted (CCF B,
 ### NCAA 2024  
 Hybrid-Mode tracker with online SA-LSTM updater.  
 Hongsheng Zheng, Yun Gao*, Yaqing Hu, and Xuejie Zhang.  
-Neural Computing & Applications, Accepted (JCR Q3)  
+Neural Computing & Applications, Accepted (JCR Q2)  
 [Paper](https://link.springer.com/article/10.1007/s00521-024-10354-4) | [Code](https://example.com/)
 
 ### IEEE ICSP 2023  
@@ -53,7 +53,7 @@ IEEE Intelligent Computing and Signal Processing(ICSP), Accepted
 ### Soft Computing 2020  
 Prediction of fundraising outcomes for crowdfunding projects based on deep learning: a multimodel comparative study  
 Wei Wang, Hongsheng Zheng, Yenchun Jim Wu*.  
-Soft Computing, Accepted (CCF-C, JCR Q3)  
+Soft Computing, Accepted (CCF-C, JCR Q2)  
 [Paper](https://link.springer.com/article/10.1007/s00500-020-04822-x) | [Code](https://github.com/hongsheng-Z/Pfoc)  
 
 🥇 Honors and Awards  {#Honors}
@@ -61,4 +61,3 @@ Soft Computing, Accepted (CCF-C, JCR Q3)
 - **2025.11**: Hua-Wei Scholarship, First Prize (1%)*.
 - **2025.10**: PhD Academic Scholarship, First Prize (1%)*.
 - **2025.10**: Outstanding PhD of Wuhan University.
-{: style="margin-top: 0; margin-bottom: 0;"} 
