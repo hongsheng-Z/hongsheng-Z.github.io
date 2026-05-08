@@ -28,7 +28,7 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 📝 Publications  {#Publications}
 ======
 ### TOG（SIGGRAPH）2026  
-HumanFlow: Controllable Human Image Generation via Flow Matching
+HumanFlow: Controllable Human Image Generation via Flow Matching 
 Wenzhuo Fan, Hongsheng Zheng, Jianchi Sun, Fei Fang, Hong Ding, and Chunxia Xiao*.  
 ACM Transactions on Graphics (SIGGRAPH-2026), Accepted (CCF A)  
 [Paper](https://example.com/) | [Code](https://example.com/) | [Project Page](https://example.com/) 
