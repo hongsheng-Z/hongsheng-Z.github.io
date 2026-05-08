@@ -12,9 +12,10 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 
 🔥 News  {#News}
 ======
+- **2026.03**: 🎉 1 paper accepted to **ACM TOG（SIGGRAPH）2026**.  
 - **2024.12**: 🎉 1 paper accepted to **AAAI 2025**.  
-- **2024.09**: 🎉 1 paper accepted to **IEEE TCSVT**.  
-- **2024.07**: 🎉 1 paper accepted to **Neural Computing and Applications**.
+- **2024.09**: 🎉 1 paper accepted to **IEEE TCSVT 2024**.  
+- **2024.07**: 🎉 1 paper accepted to **NCAA 2024**.
 - **2023.09**: 🎓 Starting my PhD at **School of Computer Science, Wuhan University**.  
 - **2023.03**: 🎉 1 paper accepted to **IEEE ICSP 2023**.
 - **2020.09**: 🎓 Starting my Master at **School of Information Science & Engineering, Yunnan University**.
@@ -26,8 +27,14 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 
 📝 Publications  {#Publications}
 ======
+### TOG（SIGGRAPH）2026  
+HumanFlow: Controllable Human Image Generation via Flow Matching
+Wenzhuo Fan, Hongsheng Zheng, Jianchi Sun, Fei Fang, Hong Ding, and Chunxia Xiao*.  
+ACM Transactions on Graphics (SIGGRAPH-2026), Accepted (CCF A)  
+[Paper](https://example.com/) | [Code](https://example.com/) | [Project Page](https://example.com/) 
+
 ### AAAI 2025  
-PHR-DIFF: Portrait Highlight Removal via Patch-aware Diffusion Model]  
+PHR-DIFF: Portrait Highlight Removal via Patch-aware Diffusion Model  
 Hongsheng Zheng, Zhongyun Bao, Gang Fu, Xuze Jiao, and Chunxia Xiao*.  
 The Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI-25), Accepted (CCF A)  
 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33146) | [Code](https://example.com/) | [Project Page](https://example.com/) 
