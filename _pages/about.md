@@ -29,7 +29,7 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 📝 Publications  {#Publications}
 ======
 ### ACM MM 2026
-AttriHuman: Controllable Human Image Generation with Spatial Alignment and Attribute Consistency
+AttriHuman: Controllable Human Image Generation with Spatial Alignment and Attribute Consistency  
 Wenzhuo Fan, Hongsheng Zheng, Jianchi Sun, Fei Fang, and Chunxia Xiao*.  
 ACM Multimedia (ACM MM-2026), Accepted (CCF A) 
 [Paper](https://example.com/) | [Code](https://github.com/wenzhuofanfan/AttriHuman) | [Project Page](https://example.com/) 
