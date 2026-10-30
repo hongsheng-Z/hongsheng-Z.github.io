@@ -12,7 +12,7 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 
 🔥 News  {#News}
 ======
-- **2026.06**: 🎉 1 paper accepted to **ACM Multimedia (ACM MM)2026**.  
+- **2026.06**: 🎉 1 paper accepted to **ACM Multimedia (ACM MM) 2026**.  
 - **2026.03**: 🎉 1 paper accepted to **ACM TOG（SIGGRAPH）2026**.  
 - **2024.12**: 🎉 1 paper accepted to **AAAI 2025**.  
 - **2024.09**: 🎉 1 paper accepted to **IEEE TCSVT 2024**.  
@@ -31,7 +31,7 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 ### ACM MM 2026
 AttriHuman: Controllable Human Image Generation with Spatial Alignment and Attribute Consistency
 Wenzhuo Fan, Hongsheng Zheng, Jianchi Sun, Fei Fang, and Chunxia Xiao*.  
-ACM Multimedia (ACM MM), Accepted (CCF A) 
+ACM Multimedia (ACM MM-2026), Accepted (CCF A) 
 [Paper](https://example.com/) | [Code](https://github.com/wenzhuofanfan/AttriHuman) | [Project Page](https://example.com/) 
 
 ### TOG（SIGGRAPH）2026  
