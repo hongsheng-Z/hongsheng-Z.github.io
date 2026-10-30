@@ -12,6 +12,7 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 
 🔥 News  {#News}
 ======
+- **2026.06**: 🎉 1 paper accepted to **ACM Multimedia (ACM MM)2026**.  
 - **2026.03**: 🎉 1 paper accepted to **ACM TOG（SIGGRAPH）2026**.  
 - **2024.12**: 🎉 1 paper accepted to **AAAI 2025**.  
 - **2024.09**: 🎉 1 paper accepted to **IEEE TCSVT 2024**.  
@@ -27,11 +28,17 @@ I am a third-year Ph.D. student in the School of Computer Science at Wuhan Unive
 
 📝 Publications  {#Publications}
 ======
+### ACM MM 2026
+AttriHuman: Controllable Human Image Generation with Spatial Alignment and Attribute Consistency
+Wenzhuo Fan, Hongsheng Zheng, Jianchi Sun, Fei Fang, and Chunxia Xiao*.  
+ACM Multimedia (ACM MM), Accepted (CCF A) 
+[Paper](https://example.com/) | [Code](https://github.com/wenzhuofanfan/AttriHuman) | [Project Page](https://example.com/) 
+
 ### TOG（SIGGRAPH）2026  
 HumanFlow: Controllable Human Image Generation via Flow Matching  
 Wenzhuo Fan, Hongsheng Zheng, Jianchi Sun, Fei Fang, Hong Ding, and Chunxia Xiao*.  
-ACM Transactions on Graphics (SIGGRAPH-2026), Accepted (CCF A)  
-[Paper](https://example.com/) | [Code](https://example.com/) | [Project Page](https://example.com/) 
+ACM Transactions on Graphics (SIGGRAPH-2026), Accepted (CCF A, JCR Q1)  
+[Paper](https://dl.acm.org/doi/abs/10.1145/3811361) | [Code](https://github.com/wenzhuofanfan/HumanFlow) | [Project Page](https://wenzhuofanfan.github.io/HumanFlow/)
 
 ### AAAI 2025  
 PHR-DIFF: Portrait Highlight Removal via Patch-aware Diffusion Model  
